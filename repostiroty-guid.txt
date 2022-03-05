@@ -1,0 +1,11 @@
+0.create reposotry
+1.git init
+2. git remote add origin (then the link)
+3. git add .
+4. git commit -m'then the message that you want'
+5. git push origin master
+
+to change the files 
+1.git add .
+2. git commit -m'adding new thing'
+3. git push origin master 
